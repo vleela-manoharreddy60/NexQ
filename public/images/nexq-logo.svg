@@ -1,0 +1,19 @@
+
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blue N -->
+  <path d="M100 50 L150 50 L200 150 L150 250 L100 250 L150 150 Z" fill="#0055a4"/>
+  
+  <!-- Orange Q with truck -->
+  <circle cx="200" cy="150" r="50" stroke="#ff6b00" stroke-width="15" fill="white"/>
+  
+  <!-- Truck icon in orange -->
+  <path d="M190 140 L210 140 L210 160 L190 160 Z" fill="#ff6b00"/>
+  <path d="M200 150 C230 120, 270 150, 240 180" stroke="#0055a4" stroke-width="10" fill="transparent"/>
+  <path d="M200 150 C170 180, 130 150, 160 120" stroke="#0055a4" stroke-width="10" fill="transparent"/>
+  
+  <!-- Connecting nodes -->
+  <circle cx="240" cy="180" r="7" fill="#0055a4"/>
+  <circle cx="160" cy="120" r="7" fill="#0055a4"/>
+  <circle cx="230" cy="120" r="7" fill="#ff6b00"/>
+  <circle cx="170" cy="180" r="7" fill="#ff6b00"/>
+</svg>
